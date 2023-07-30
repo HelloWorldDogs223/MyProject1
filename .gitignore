@@ -4,7 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-
+.env
+.eslintrc.js
+tsconfig.json
 # testing
 /coverage
 
